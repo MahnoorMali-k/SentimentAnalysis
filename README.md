@@ -52,7 +52,7 @@ You can open the provided Colab notebook and run all cells to perform training a
 ## Project Structure
 
 ```plaintext
-SentimentAnalysis-DistilBERT/
+SentimentAnalysis/
 ├── SentimentAnalysis.ipynb # Colab notebook for training and evaluation
 ├── requirements.txt        # Dependencies
 ├── README.md               # Project documentation
